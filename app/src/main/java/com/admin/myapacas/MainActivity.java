@@ -21,7 +21,9 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             AnonymousAuthActivity.class,
 
     };
-//Hello fo
+
+
+    //My Name is ben
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
